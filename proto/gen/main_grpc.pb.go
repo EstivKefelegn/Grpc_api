@@ -4,7 +4,7 @@
 // - protoc             v3.21.12
 // source: proto/main.proto
 
-package mianpb
+package mianapipb
 
 import (
 	context "context"

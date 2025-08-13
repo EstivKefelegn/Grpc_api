@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package calculator;
 
-option go_package = "/proto/gen;mianpb";
+option go_package = "/proto/gen;mianapipb";
 
 service Calculator {
     rpc Add (AddRequest) returns (AddResponse);

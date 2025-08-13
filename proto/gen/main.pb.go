@@ -4,7 +4,7 @@
 // 	protoc        v3.21.12
 // source: proto/main.proto
 
-package mianpb
+package mianapipb
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
@@ -131,7 +131,7 @@ const file_proto_main_proto_rawDesc = "" +
 	"\x03sum\x18\x01 \x01(\x05R\x03sum2D\n" +
 	"\n" +
 	"Calculator\x126\n" +
-	"\x03Add\x12\x16.calculator.AddRequest\x1a\x17.calculator.AddResponseB\x13Z\x11/proto/gen;mianpbb\x06proto3"
+	"\x03Add\x12\x16.calculator.AddRequest\x1a\x17.calculator.AddResponseB\x16Z\x14/proto/gen;mianapipbb\x06proto3"
 
 var (
 	file_proto_main_proto_rawDescOnce sync.Once
